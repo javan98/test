@@ -1,0 +1,16 @@
+.container{
+    margin: 0;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    gap: 4rem;
+    border: 1px solid teal;
+    padding: 4rem;
+    font-size: x-large;
+    color: red;
+}
